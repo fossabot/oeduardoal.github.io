@@ -1,0 +1,26 @@
+	<div class="row">
+		<div class="col-md-12">
+			<input type="text" name="pesquisa" class="form-control form-control-gray form-control-no-border"  autofocus="true" ng-model="pesquisa" placeholder="Digite o nome do parceiro: ">
+		</div>
+	</div>
+	<br>
+
+	<div class="row" ng-if="pesquisa">
+	<hr>
+	<br>
+	<div class="col-md-3"  ng-repeat="item in dados | filter:{nome: pesquisa}">
+		<div class="panel">
+			<div class="panel panel-{{tema}}">
+				<div class="panel-heading">
+					<b>{{item.nome}}</b>
+				</div>
+				<div class="panel-body text-justify">
+					{{item.id}} - {{item.descricao}}
+					<br>
+					<br>
+					<a href="#/detalhes/{{item.id}}" class="btn btn-{{tema}} btn-block"><span class="glyphicon glyphicon-th-list" style="float: left;font-size: 16px;margin-top: 2px;"></span>Detalhes</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
