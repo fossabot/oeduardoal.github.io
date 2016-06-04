@@ -1,5 +1,5 @@
 app.controller("Ctrl", function($scope, $location){
-	$scope.tema = "danger";
+	$scope.tema = "praimry";
 	$scope.back = function(){
 		$location.path('/home');
 	}
