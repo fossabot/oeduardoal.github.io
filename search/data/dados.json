@@ -1,63 +1,48 @@
 [
     {
         "id": "1",
-        "nome": "Parceiro Mário Alencar",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quaerat eveniet enim distinctio.",
+        "localizacao": "W1-01",
+        "cod_fabricante": "PC04-M1",
+        "descricao": "CONEXÃO RETA M5 X TB-4MM",
         "valor_max": "20",
-        "valor_min": "10"
+        "valor_min": "10",
+        "cod_fornecedor": "0001",
+        "cod_interno": "0001"
     },{
         "id": "2",
-        "nome": "Parceiro Empresa QWE",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quaerat eveniet enim distinctio.",
+        "localizacao": "W1-02",
+        "cod_fabricante": "PC04-M2",
+        "descricao": "CONEXÃO RETA M5 X TB-4MM",
         "valor_max": "20",
-        "valor_min": "10"
+        "valor_min": "10",
+        "cod_fornecedor": "0002",
+        "cod_interno": "0002"
     },{
         "id": "3",
-        "nome": "Parceiro Empresa RSSD",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quaerat eveniet enim distinctio.",
+        "localizacao": "W1-03",
+        "cod_fabricante": "PC04-M3",
+        "descricao": "CONEXÃO RETA M5 X TB-4MM",
         "valor_max": "20",
-        "valor_min": "10"
+        "valor_min": "10",
+        "cod_fornecedor": "0003",
+        "cod_interno": "0003"
     },{
         "id": "4",
-        "nome": "Parceiro Empresa IJS",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quaerat eveniet enim distinctio.",
+        "localizacao": "W1-04",
+        "cod_fabricante": "PC04-M4",
+        "descricao": "CONEXÃO RETA M5 X TB-4MM",
         "valor_max": "20",
-        "valor_min": "10"
+        "valor_min": "10",
+        "cod_fornecedor": "0004",
+        "cod_interno": "0004"
     },{
         "id": "5",
-        "nome": "Parceiro Empresa SFV",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quaerat eveniet enim distinctio.",
+        "localizacao": "W1-05",
+        "cod_fabricante": "PC04-M5",
+        "descricao": "CONEXÃO RETA M5 X TB-4MM",
         "valor_max": "20",
-        "valor_min": "10"
-    },{
-        "id": "6",
-        "nome": "Parceiro Empresa KMD",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quaerat eveniet enim distinctio.",
-        "valor_max": "20",
-        "valor_min": "10"
-    },{
-        "id": "7",
-        "nome": "Parceiro Empresa LLW",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quaerat eveniet enim distinctio.",
-        "valor_max": "20",
-        "valor_min": "10"
-    },{
-        "id": "8",
-        "nome": "Parceiro Empresa LKI",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quaerat eveniet enim distinctio.",
-        "valor_max": "20",
-        "valor_min": "10"
-    },{
-        "id": "9",
-        "nome": "Parceiro Empresa KMK",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quaerat eveniet enim distinctio.",
-        "valor_max": "20",
-        "valor_min": "10"
-    },{
-        "id": "10",
-        "nome": "Parceiro Empresa OII",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quaerat eveniet enim distinctio.",
-        "valor_max": "20",
-        "valor_min": "10"
+        "valor_min": "10",
+        "cod_fornecedor": "0005",
+        "cod_interno": "0005"
     }
 ]
