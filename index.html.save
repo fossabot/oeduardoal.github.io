@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="icon" href="eduardoalmeida.ico">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="http://localhost/Frameworks/bootstrap/css/bootstrap.min.css">
+  <script type="text/javascript" src="http://localhost/Frameworks/jquery-mobile/jquery-1.12.3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  <script type="text/jaascript" src="http://localhost/Frameworks/bootstrap/js/bootstrap.js"></script>
+  <title>Eduardo Almeida</title>
+</head>
+<body class="">
+
+  <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+        <div class="cover-container">
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">Eduardo Almeida</h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li class="active"><a href="#">Portifólio</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <div class="inner cover">
+            <h1 class="cover-heading">Cover your page.</h1>
+            <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+            <p class="lead">
+              <a href="#" class="btn btn-lg btn-default">Learn more</a>
+            </p>
+          </div>
+          <div class="mastfoot">
+            <div class="inner">
+              <p>Desenvolvido por <a style="text-decoration: none;">Eduardo Almeida</a> - <a href="https://facebook.com/oeduardoal" target="_blank">@oeduardoal</a>.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
+</html>
