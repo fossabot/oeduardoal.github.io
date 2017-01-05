@@ -1,0 +1,15 @@
+{
+  "name": "oeduardoal.github.io",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
